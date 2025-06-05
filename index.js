@@ -25,7 +25,7 @@ async function run() {
 
   // Write your prompt here
   const prompt =
-    "generate a web development content, tips and tricks or something new or some rant or some advice as a tweet, it should not be vague and should be unique; under 280 characters and should be plain text, you can use emojis";
+    "Halo aku open jual NETFLIX, CAPCUT, DISNEY, HBO, CANVA, CHATGPT, etc termasuk study needs, social needs, topup games, app streaming dll ya. Bisa lgsg ke akun @gumiawz ya, lgsg wa di bio atau di pinned. Trusted since 2024! testi bisa cek pinned. Thank youu";
 
   const result = await model.generateContent(prompt);
   const response = await result.response;
